@@ -2,6 +2,7 @@ import logging
 import os
 import sys
 
+import argparse
 import appdirs
 import hangups.auth
 
